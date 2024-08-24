@@ -1,5 +1,4 @@
 # solarsystem
-A cherry-picked, simplified, unrealistic solar system simulation.
 ## Instructions:
 Watch the animation after running solarsystem.pde.
 ## Implementation:
